@@ -4,7 +4,7 @@ def greet_user():
     """
     Prompts the user for their name and then prints a personalized greeting.
     """
-    # Ask the user to enter their name
+    # Ask the user to enter 
     name = input("Please enter your name: ")
 
     # Create a greeting message
